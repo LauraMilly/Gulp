@@ -1,0 +1,19 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "Projeto utilizando Gulp para automação de tarefas",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-sass": "^6.0.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.83.0"
+  }
+}
